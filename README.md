@@ -4,3 +4,6 @@ Welcome to a github wiki on Introduction to Biology 2!
 Disclaimer: Accuracy not guaranteed, wiki intended for personal use.
 
 But if you found it and would like to use it, more power to you :).
+
+Bibliography for wiki: 
+Russell, P. J., Hertz, P. E., McMillan, B., & Benington, J. H. (2011). _Biology: the dynamic science_, Fifth Edition.
